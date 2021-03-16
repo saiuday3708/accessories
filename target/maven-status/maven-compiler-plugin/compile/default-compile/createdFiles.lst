@@ -1,0 +1,4 @@
+camelinaction\order\ObjectFactory.class
+camelinaction\order\OrderEndpointService.class
+camelinaction\order\OrderServiceImpl.class
+camelinaction\order\OrderEndpoint.class

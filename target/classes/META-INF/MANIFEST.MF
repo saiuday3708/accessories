@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1615908735658
+Build-Jdk: 1.8.0_281
+Built-By: SAI
+Bundle-Description: Creates a web service using the WSDL contract first
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.html
+Bundle-ManifestVersion: 2
+Bundle-Name: Fabric8 :: Quickstarts :: Camel CXF Contract First
+Bundle-SymbolicName: acc.essories
+Bundle-Version: 0.0.0.jgj
+Created-By: Apache Maven Bundle Plugin
+Export-Package: camelinaction.order;uses:="javax.xml.bind.annotation,jav
+ ax.xml.namespace,javax.xml.bind,javax.jws.soap,javax.jws,javax.xml.ws";
+ version="0.0.0.jgj"
+Import-Package: javax.jws,javax.jws.soap,javax.xml.bind,javax.xml.bind.a
+ nnotation,javax.xml.namespace,javax.xml.ws,org.osgi.service.blueprint;v
+ ersion="[1.0.0,2.0.0)"
+Tool: Bnd-1.50.0
